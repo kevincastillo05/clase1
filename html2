@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Tutoriales en Educación</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Video Tutoriales en Educación</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="animaciones.html">Animaciones</a></li>
+                <li><a href="audio.html">Audio</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Implicaciones en el Contexto Educativo</h2>
+            <p>Los video tutoriales son herramientas valiosas en el ámbito educativo ya que permiten a los estudiantes aprender a su propio ritmo, revisando conceptos tantas veces como sea necesario. Facilitan la demostración de procedimientos complejos y permiten una mejor comprensión a través de la visualización.</p>
+            <p>En el contexto universitario, los video tutoriales pueden complementar las clases presenciales, ofreciendo una referencia visual que ayuda a reforzar lo aprendido en el aula.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Multimedia en Educación. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
